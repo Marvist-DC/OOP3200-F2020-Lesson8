@@ -1,3 +1,8 @@
+/**
+ * @author Domenic Catalano, StudentID: 100556614
+ * @version 0.0.1
+ * @date November 04, 2020
+ */
 package ca.durhamcollege;
 
 public class Main
